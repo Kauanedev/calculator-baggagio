@@ -53,6 +53,9 @@ Online calculator using HTML, CSS and JavaScript, providing a friendly and respo
 # Clone this repository:
 $ git clone git@github.com:Kauanedev/calculator-baggagio.git
 
+# Access the project folder:
+$ cd calculator-baggagio
+
 # Install dependencies:
 $ npm install
 
