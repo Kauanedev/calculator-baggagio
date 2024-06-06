@@ -71,6 +71,8 @@ $ npm run start
 #### **Website**
 
 -   **[React](https://reactjs.org/)**
+-   **[CSS](https://css3.com/)**
+-   **[HTML](https://html.com/)**
 -   **[Toastify](https://fkhadra.github.io/react-toastify/installation/)**
 
 
