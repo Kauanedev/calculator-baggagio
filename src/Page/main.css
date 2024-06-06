@@ -1,0 +1,24 @@
+.main {
+    align-items: center;
+    justify-content: center;
+}
+
+.calculator {
+    padding: 1.25rem;
+    border-radius: 0.6rem;
+    background-color: #bfbfbf;
+}
+
+input {
+width: 3.75rem;
+height: 3.75rem;
+margin: 1px;
+background-color: #0E8C42;
+border-radius: 5px;
+border: 1px solid #007b15;
+color: #fff;
+font-size: 1.2rem;
+font-weight: 600;
+cursor: pointer;
+}
+
