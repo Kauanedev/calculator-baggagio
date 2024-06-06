@@ -38,6 +38,12 @@ function Main() {
     }
   }
 
+  function deleteLast() {
+    const newValue = value.toString()
+
+    setValue(newValue.slice(0, newValue.length - 1))
+  }
+
   return (
     <div className="main">
       <div className="calculator">
@@ -48,7 +54,7 @@ function Main() {
           <div>
             <button onClick={e => setValue('')} value='C'>C</button>
             <button onClick={e => setValue(3.14159265358979)} value='Pi'>Pi</button>
-            <button>Del</button>
+            <button onClick={deleteLast}>Del</button>
             <button onClick={operatorHandler}>/</button>
           </div>
           <div>
