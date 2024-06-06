@@ -40,6 +40,8 @@ Online calculator using HTML, CSS and JavaScript, providing a friendly and respo
 - Division (÷)
 - Pi value (3.14159265358979)
 - Pop-up with versin information
+- Delete all numbers
+- Delete last number
 
 <p id="run">
   
