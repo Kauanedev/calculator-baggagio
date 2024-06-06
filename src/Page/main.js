@@ -1,5 +1,7 @@
-import './main.css';
 import {useState} from 'react';
+import Toast from '../Components/Modal/toast';
+import './main.css';
+
 
 function Main() {
 
@@ -69,7 +71,7 @@ function Main() {
             <input type="button" value="+" onClick={operatorHandler} />
           </div>
           <div className='bottom-div'>
-            <input type="button" value="?" />
+            <Toast />
             <input type="button" value={0} onClick={inputNum} />
             <input type="button" value={'.'} onClick={inputNum} />
             <input type="button" value="=" onClick={calculate} />
