@@ -35,6 +35,10 @@ font-weight: 600;
 cursor: pointer;
 }
 
+input[type="button"]:hover {
+    background-color: #259d3b;
+}
+
 .bottom-div {
     display: flex;
 }
