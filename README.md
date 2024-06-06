@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# BAGAGGIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔥 O Desafio
 
-## Available Scripts
+<p>
+    O desafio proposto é criar uma calculadora utilizando desenvolvimento web. Os   participantes deverão projetar e implementar uma aplicação de calculadora funcional que   opere diretamente no navegador.
+</p>
+<p>
+    A calculadora deve ser capaz de realizar operações básicas como adição, subtração, multiplicação, divisão e o valor de Pi.
+</p>
+<p>
+    Este projeto é uma excelente oportunidade para aprimorar suas competências em  desenvolvimento web e criar um aplicativo prático e funcional.
+ </p>
 
-In the project directory, you can run:
+<img src="https://github.com/Drarlian/Calculadora-React/assets/42438006/3e9fedf4-6f5a-46dc-9b33-45d0074e7a4f"/>
 
-### `npm start`
+## 👩‍💻 Linguagens para a realização
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    ⚡ Javascript
+    ⚡ HTML5
+    ⚡ CSS3
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔥 Desejável
 
-### `npm test`
+    ⚡ ReactJS
+    ⚡ NextJS
+    ⚡ AngularJS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌐 Acess Web Site
 
-### `npm run build`
+[https://calculadora-online-react.netlify.app](https://calculadora-online-react.netlify.app)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# OBS.:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+O Desafio não precisa ser idêntico ao que foi mostrado como exemplo.
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Enviar o link do repositório para o e-mail: `allan.franca@bagaggio.com.br`
+<br/>
 
-### `npm run eject`
+<p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    Quem tiver Discord e deseja tirar alguma dúvida.
+    Acesse clicando no link abaixo.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</p>
+<a href="https://discord.gg/dMyHAEuC">Ir para o Discord</a>
