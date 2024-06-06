@@ -40,41 +40,41 @@ function Main() {
 
   return (
     <div className="main">
-
       <div className="calculator">
         <div className="form">
           <div className="display">
             <input type="text" value={value} />
           </div>
           <div>
-            <input type="button" value="C" onClick={e => setValue('')} />
-            <input type="button" value="Pi" onClick={e => setValue(3.14159265358979)} />
-            <input type="button" value="Del" onClick={e => setValue(value.slice(0, -1))} />
-            <input type="button" value="/" onClick={operatorHandler} />
+            <button onClick={e => setValue('')} value='C'>C</button>
+            <button onClick={e => setValue(3.14159265358979)} value='Pi'>Pi</button>
+            <button>Del</button>
+            <button onClick={operatorHandler}>/</button>
           </div>
           <div>
-            <input type="button" value={7} onClick={inputNum} />
-            <input type="button" value={8} onClick={inputNum} />
-            <input type="button" value={9} onClick={inputNum} />
-            <input type="button" value="x" onClick={operatorHandler} />
+
+            <button onClick={inputNum} value={7}>7</button>
+            <button onClick={inputNum} value={8}>8</button>
+            <button onClick={inputNum} value={9}>9</button>
+            <button onClick={operatorHandler} value='x'>x</button>
           </div>
           <div>
-            <input type="button" value={4} onClick={inputNum} />
-            <input type="button" value={5} onClick={inputNum} />
-            <input type="button" value={6} onClick={inputNum} />
-            <input type="button" value="-" onClick={operatorHandler} />
+            <button onClick={inputNum} value={4}>4</button>
+            <button onClick={inputNum} value={5}>5</button>
+            <button onClick={inputNum} value={6}>6</button>
+            <button onClick={operatorHandler} value='-'>-</button>
           </div>
           <div>
-            <input type="button" value={1} onClick={inputNum} />
-            <input type="button" value={2} onClick={inputNum} />
-            <input type="button" value={3} onClick={inputNum} />
-            <input type="button" value="+" onClick={operatorHandler} />
+            <button onClick={inputNum} value={1}>1</button>
+            <button onClick={inputNum} value={2}>2</button>
+            <button onClick={inputNum} value={3}>3</button>
+            <button onClick={operatorHandler} value='+'>+</button>
           </div>
           <div className='bottom-div'>
             <Toast />
-            <input type="button" value={0} onClick={inputNum} />
-            <input type="button" value={'.'} onClick={inputNum} />
-            <input type="button" value="=" onClick={calculate} />
+            <button onClick={inputNum} value={0}>0</button>
+            <button onClick={inputNum} value='.'>.</button>
+            <button onClick={calculate} value='='>=</button>
           </div>
         </div>
       </div >

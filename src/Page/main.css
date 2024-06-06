@@ -22,7 +22,7 @@
     padding: 0.3rem;
 }
 
-input {
+input, button {
 width: 3.75rem;
 height: 3.75rem;
 margin: 1px;
